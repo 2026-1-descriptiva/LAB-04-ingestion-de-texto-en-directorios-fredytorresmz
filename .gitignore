@@ -1,7 +1,5 @@
 .DS_Store
-# Datos descomprimidos
-files/input/
-input/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
